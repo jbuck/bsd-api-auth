@@ -1,6 +1,6 @@
 {
   "name": "bsd-api-auth",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Authorization for Blue State Digital APIs",
   "main": "index.js",
   "scripts": {

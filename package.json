@@ -1,0 +1,27 @@
+{
+  "name": "bsd-api-auth",
+  "version": "0.0.0",
+  "description": "Authorization for Blue State Digital APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbuck/bsd-api-auth.git"
+  },
+  "keywords": [
+    "bsd",
+    "api",
+    "auth",
+    "blue",
+    "state",
+    "digital"
+  ],
+  "author": "Jon Buckley <jon@jbuckley.ca>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jbuck/bsd-api-auth/issues"
+  },
+  "homepage": "https://github.com/jbuck/bsd-api-auth"
+}
